@@ -26,7 +26,7 @@
   - SVM models are sensitive to over-fitting the model
   - SVM requires a lot of memory and computing resources
   
-## Text Classification
+## Natural Language Processing (NLP)
 - This code uses an input text file for data input
   ### Approach
   - Create a lemmatizer using the WordNetLemmatizer from NLTK and a tokenizer using the TweetTokenizer from NLTK
